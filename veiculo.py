@@ -13,8 +13,6 @@
 #E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 #Minha resolução do exercício na Linguagem Python.
-
-
 qt_rodas = int(input("Quantidade de rodas: "))
 peso_bruto = int(input("Capacidade de transporte: "))
 qt_pessoas = int(input("Quantidade de pessoas: "))
