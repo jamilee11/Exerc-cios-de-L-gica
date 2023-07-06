@@ -14,7 +14,7 @@ for a in range(20, 0, -1):
     print(f"Andar {a} ")
 
 # Utilizando o laço While.
-andares = 20
+andares = 21
 while andares > 1:
   andares-=1
   if andares == 13:
@@ -22,7 +22,7 @@ while andares > 1:
   print(f"Andar {andares}")
 
 # Utilizando o laço While True com break e continue.
-andar = 20
+andar = 21
 while True:
   andar-=1
   if andar == 13:
