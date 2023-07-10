@@ -7,9 +7,7 @@
 # Observação: a função matemática Math.log10() está sendo utilizada aqui para contar quantos dígitos
 # a variável ano_nascimento possui, sem a necessidade de converter a variável de int 
 # para String, para então usar a função len() para contar seus dígitos.
-
 import math
-
 nome = str(input("Informe o seu nome completo: "))
 while True:
     try:
